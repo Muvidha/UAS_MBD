@@ -2,7 +2,7 @@
 Muvidha Fatmawati Putri
 
 1. Buat Migration Files
-![image](https://github.com/UAS_MBD/assets/100705931/e5a22494-2c9f-4517-b394-aad0d6e06bbb)
+![image](https://github.com/030Affandika/UAS_MBD/assets/100705931/e5a22494-2c9f-4517-b394-aad0d6e06bbb)
 
 2. Ubah File Migration
 ![image](https://github.com/030Affandika/UAS_MBD/assets/100705931/67a8784e-3729-408e-8578-125181a23cab)
